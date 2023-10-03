@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Criptografia", "Criptografi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindromo", "Palindromo\Palindromo.csproj", "{99947BF5-EC59-4AF5-8019-F11D41B2E02B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadenaReves3", "ReverseWord\CadenaReves3.csproj", "{6C54B5C9-955A-4CA6-9A9C-2B635ECFC019}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInt", "RomanToInt\RomanToInt.csproj", "{BC234EF6-7F25-44ED-83C0-F789EB2F25D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{99947BF5-EC59-4AF5-8019-F11D41B2E02B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99947BF5-EC59-4AF5-8019-F11D41B2E02B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99947BF5-EC59-4AF5-8019-F11D41B2E02B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C54B5C9-955A-4CA6-9A9C-2B635ECFC019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C54B5C9-955A-4CA6-9A9C-2B635ECFC019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C54B5C9-955A-4CA6-9A9C-2B635ECFC019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C54B5C9-955A-4CA6-9A9C-2B635ECFC019}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC234EF6-7F25-44ED-83C0-F789EB2F25D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC234EF6-7F25-44ED-83C0-F789EB2F25D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC234EF6-7F25-44ED-83C0-F789EB2F25D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC234EF6-7F25-44ED-83C0-F789EB2F25D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
