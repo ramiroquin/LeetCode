@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindromo", "Palindromo\Pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadenaReves3", "ReverseWord\CadenaReves3.csproj", "{6C54B5C9-955A-4CA6-9A9C-2B635ECFC019}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInt", "RomanToInt\RomanToInt.csproj", "{BC234EF6-7F25-44ED-83C0-F789EB2F25D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInt", "RomanToInt\RomanToInt.csproj", "{BC234EF6-7F25-44ED-83C0-F789EB2F25D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{91A7508E-27AB-414A-B4B1-AF1E2F72B885}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberOfGoodPairs", "NumberOfGoodPairs\NumberOfGoodPairs.csproj", "{A34F7663-7926-4975-A5D7-49BA5FD47730}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{BC234EF6-7F25-44ED-83C0-F789EB2F25D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC234EF6-7F25-44ED-83C0-F789EB2F25D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC234EF6-7F25-44ED-83C0-F789EB2F25D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A7508E-27AB-414A-B4B1-AF1E2F72B885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A7508E-27AB-414A-B4B1-AF1E2F72B885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A7508E-27AB-414A-B4B1-AF1E2F72B885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A7508E-27AB-414A-B4B1-AF1E2F72B885}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34F7663-7926-4975-A5D7-49BA5FD47730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34F7663-7926-4975-A5D7-49BA5FD47730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34F7663-7926-4975-A5D7-49BA5FD47730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34F7663-7926-4975-A5D7-49BA5FD47730}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
